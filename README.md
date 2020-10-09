@@ -3,6 +3,8 @@ Zipkins server helps us for distributed log tracing. This is hosted on heroku.
 <br>
 Heroku Url : 
 <br>
+After creating your microservice. Add bootstrap.properties for zipkin. Add the above heroku hosted url.
+<br>
 ACMQ Details :
 <br>
 Our Rabbit MQ Server : https://shrimp.rmq.cloudamqp.com/
