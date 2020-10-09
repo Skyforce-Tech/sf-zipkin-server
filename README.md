@@ -2,6 +2,12 @@
 Zipkins server helps us for distributed log tracing. This is hosted on heroku.
 <br>
 Heroku Url : 
+<br>
+ACMQ Details :
+<br>
+Our Rabbit MQ Server : https://shrimp.rmq.cloudamqp.com/
+<br>
+ACMQ URL : amqps://fyezhfwy:woNzo3PEHUhMhVVDunRTKcwb9Qvvj_q6@shrimp.rmq.cloudamqp.com/fyezhfwy
 <br><br>
 Zipkins Log Tracing snapshots:
 <br><br>
